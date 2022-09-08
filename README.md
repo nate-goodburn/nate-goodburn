@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nate-goodburn
-- 👀 I’m interested in graphic design and web development.
+- 👀 I’m a graphic designer and web developer.
 - 🌱 I’m currently learning WordPress Development.
 - 📫 You can reach out to me at www.goodburn.design or via email at nate@goodburn.design.
 
