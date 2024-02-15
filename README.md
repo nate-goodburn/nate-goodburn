@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nate-goodburn
 - 👀 I’m a WordPress and PHP web developer
-- 📫 You can reach out to me at nate@goodburn.design
+- 📫 You can reach out to me at nate@goodburn.dev
 
 <!---
 nate-goodburn/nate-goodburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
