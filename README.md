@@ -1,4 +1,4 @@
-Hi, I’m Nate Goodburn. I’m a WordPress and PHP developer from Montana with a deep fondness for math and music. I spend a lot of time teaching myself the way things work, and also love to play guitar, listen to baseball, carve spoons, mix cocktails, and sit in canoes and rafts with those I love.
+Hi, I’m Nate Goodburn. I’m a WordPress and PHP developer from Montana with a fondness for math and music. I spend a lot of time teaching myself the way things work, and also love to play guitar, listen to baseball, carve spoons, mix cocktails, and sit in canoes and rafts with those I love.
 
 You can reach out to me at nate@goodburn.dev
 
