@@ -3,8 +3,8 @@ Hi, I’m Nate Goodburn. I’m a WordPress and PHP developer from Montana with a
 You can reach out to me at nate@goodburn.dev
 
 I'm currently learning more about:
-- NLP and fast searching through text
-- Backend design patterns
+- Elm
+- Security
 - Knuckleball pitch grips
 
 <!---
